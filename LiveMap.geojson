@@ -1,0 +1,1130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3857973,
+          51.4236201
+        ]
+      },
+      "properties": {
+        "ID": 103274,
+        "Location": "16 St Patrick's Gardens GRAVESEND DA12 4AJ",
+        "Updated": "2025-04-09T12:41:07.365Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5841608,
+          50.4281647
+        ]
+      },
+      "properties": {
+        "ID": 103354,
+        "Location": "MORRISONS PETROL STATION PAIGNTON TQ4 7ET",
+        "Updated": "2025-04-09T12:41:07.481Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47099519999999,
+          36.5129802
+        ]
+      },
+      "properties": {
+        "ID": 103384,
+        "Location": "P&D AUTOMOTIVE",
+        "Updated": "2025-04-09T12:41:07.563Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8858815,
+          51.5391795
+        ]
+      },
+      "properties": {
+        "ID": 103409,
+        "Location": "Unit 3, Interface Business Park\nBinknoll Lane, Royal Wootton Bassett, SN4 8SY",
+        "Updated": "2025-04-09T12:41:07.714Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.222594,
+          53.0094339
+        ]
+      },
+      "properties": {
+        "ID": 103411,
+        "Location": "Unit 1, Blenheim Park Road, Nottingham, NG6 8YP",
+        "Updated": "2025-04-09T12:41:07.820Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1538022,
+          52.2396348
+        ]
+      },
+      "properties": {
+        "ID": 103418,
+        "Location": "BROAD STREET LD8 2SP",
+        "Updated": "2025-04-09T12:41:07.905Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0952458,
+          51.5090991
+        ]
+      },
+      "properties": {
+        "ID": 103449,
+        "Location": "Wentloog Corporate Park, Wentloog Road, Rumney, Cardiff, CF3 2ER",
+        "Updated": "2025-04-09T12:41:08.003Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9811707,
+          52.49480029999999
+        ]
+      },
+      "properties": {
+        "ID": 103471,
+        "Location": "24 - B677AS",
+        "Updated": "2025-04-09T12:41:08.106Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0638493,
+          51.2846892
+        ]
+      },
+      "properties": {
+        "ID": 103474,
+        "Location": "Horizon 5, Basingstoke, RG24 8QL",
+        "Updated": "2025-04-09T12:41:08.199Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986374,
+          51.1554308
+        ]
+      },
+      "properties": {
+        "ID": 103477,
+        "Location": "Unit C, Woodlands Business Park, Bristol Rd, Bridgwater, \nSomerset, TA6 4FJ",
+        "Updated": "2025-04-09T12:41:08.315Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.981051,
+          52.4948808
+        ]
+      },
+      "properties": {
+        "ID": 103481,
+        "Location": "24 Craddock Rd, Smethwick B67 7AS",
+        "Updated": "2025-04-09T12:41:08.425Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.973735,
+          51.70664799999999
+        ]
+      },
+      "properties": {
+        "ID": 103482,
+        "Location": "Unit 17-19, Fford Parc Felindre, Felindre, Swansea, SA57DU",
+        "Updated": "2025-04-09T12:41:08.522Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.379268,
+          53.7359915
+        ]
+      },
+      "properties": {
+        "ID": 103483,
+        "Location": "263 Hawthorn Ave, Hull HU3 5FX",
+        "Updated": "2025-04-09T12:41:08.601Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2549573,
+          51.1415881
+        ]
+      },
+      "properties": {
+        "ID": 103486,
+        "Location": "TN49QS - 79",
+        "Updated": "2025-04-09T12:41:08.698Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1742383,
+          53.5324094
+        ]
+      },
+      "properties": {
+        "ID": 103489,
+        "Location": "Unit 2, Satellite Park, Middleton, Oldham, M24 1RU",
+        "Updated": "2025-04-09T12:41:08.793Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1827408,
+          53.0033369
+        ]
+      },
+      "properties": {
+        "ID": 103498,
+        "Location": "MAN STOKE",
+        "Updated": "2025-04-09T12:41:08.892Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9621587,
+          54.9307606
+        ]
+      },
+      "properties": {
+        "ID": 103501,
+        "Location": "Unit 1, Bacard Way\nKingmoor Park North\nCarlisle, CA64FD",
+        "Updated": "2025-04-09T12:41:09.012Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3287269,
+          51.2190827
+        ]
+      },
+      "properties": {
+        "ID": 103516,
+        "Location": "BA11 4RW,HANDLEMAKER RD",
+        "Updated": "2025-04-09T12:41:09.097Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0980718,
+          51.5097007
+        ]
+      },
+      "properties": {
+        "ID": 103518,
+        "Location": "WG DAVIES",
+        "Updated": "2025-04-09T12:41:09.178Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9957133,
+          55.8327628
+        ]
+      },
+      "properties": {
+        "ID": 103521,
+        "Location": "Woodside, Holytown, \nMotherwell, \nLanarkshire, ML1 4XL",
+        "Updated": "2025-04-09T12:41:09.267Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.560686,
+          51.46794
+        ]
+      },
+      "properties": {
+        "ID": 103528,
+        "Location": "7 GREENBANK RD BRISTOL BS5 6EZ",
+        "Updated": "2025-04-09T12:41:09.372Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9525625999999998,
+          52.4717035
+        ]
+      },
+      "properties": {
+        "ID": 103551,
+        "Location": "Snetterton Park, \nHarling Road, Snetterton, Norfolk, NR16 2JU",
+        "Updated": "2025-04-09T12:41:09.489Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6530087,
+          53.7895113
+        ]
+      },
+      "properties": {
+        "ID": 103552,
+        "Location": "Unit 2, Trefoil Way, Preston, PR2 5PH",
+        "Updated": "2025-04-09T12:41:09.622Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3002743,
+          52.5147959
+        ]
+      },
+      "properties": {
+        "ID": 103557,
+        "Location": "Unit 16, Vastre industrial estate, Newtown, SY16 1DZ",
+        "Updated": "2025-04-09T12:41:09.762Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3909812,
+          50.70069489999999
+        ]
+      },
+      "properties": {
+        "ID": 103562,
+        "Location": "CITY WEST EXETER",
+        "Updated": "2025-04-09T12:41:09.837Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9209371,
+          53.45771999999999
+        ]
+      },
+      "properties": {
+        "ID": 103563,
+        "Location": "19 Sugarbrook Drive, Stonebridge, Liverpool, L11 2BD",
+        "Updated": "2025-04-09T12:41:09.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2225581,
+          51.4327675
+        ]
+      },
+      "properties": {
+        "ID": 103564,
+        "Location": "Unit 21, Fawkes Avenue,\nQuestor Industrial Estate, \nDartford, DA1 1JQ",
+        "Updated": "2025-04-09T12:41:10.082Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2264501,
+          51.8613958
+        ]
+      },
+      "properties": {
+        "ID": 103567,
+        "Location": "RYGOR GLOUCESTER",
+        "Updated": "2025-04-09T12:41:10.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2225581,
+          51.4327675
+        ]
+      },
+      "properties": {
+        "ID": 103568,
+        "Location": "Unit 21, Fawkes Avenue,\nQuestor Industrial Estate, \nDartford, DA1 1JQ",
+        "Updated": "2025-04-09T12:41:10.211Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2035079,
+          53.0352097
+        ]
+      },
+      "properties": {
+        "ID": 103571,
+        "Location": "18 KING EDWARD STREET, NG15 7JR",
+        "Updated": "2025-04-09T12:41:10.387Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1742383,
+          53.5324094
+        ]
+      },
+      "properties": {
+        "ID": 103572,
+        "Location": "Unit 2, Satellite Park, Middleton, Oldham, M24 1RU",
+        "Updated": "2025-04-09T12:41:10.406Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5280397,
+          54.64516339999999
+        ]
+      },
+      "properties": {
+        "ID": 103574,
+        "Location": "22 STAINBURN RD WORKINGTON CA14 1SN",
+        "Updated": "2025-04-09T12:41:10.486Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4427462,
+          51.45367820000001
+        ]
+      },
+      "properties": {
+        "ID": 103589,
+        "Location": "CORDWALLIS HEATHROW",
+        "Updated": "2025-04-09T12:41:10.548Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0109296,
+          53.23196489999999
+        ]
+      },
+      "properties": {
+        "ID": 103597,
+        "Location": "ESTAR DEESIDE",
+        "Updated": "2025-04-09T12:41:10.617Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3662741,
+          51.505862
+        ]
+      },
+      "properties": {
+        "ID": 103600,
+        "Location": "3 Collett Way\nSouthall, London, UB2 4SE",
+        "Updated": "2025-04-09T12:41:10.702Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3662741,
+          51.505862
+        ]
+      },
+      "properties": {
+        "ID": 103601,
+        "Location": "3 Collett Way\nSouthall, London, UB2 4SE",
+        "Updated": "2025-04-09T12:41:10.720Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.408458,
+          55.9325617
+        ]
+      },
+      "properties": {
+        "ID": 103602,
+        "Location": "25 Cliftonhall Road\nNewbridge, EH28 8PW",
+        "Updated": "2025-04-09T12:41:10.793Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08038569999999999,
+          51.4924645
+        ]
+      },
+      "properties": {
+        "ID": 103606,
+        "Location": "Unit 5, Mandela Way\nBricklayers Arms\nSouthwark, SE1 5SE",
+        "Updated": "2025-04-09T12:41:10.883Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.222594,
+          53.0094339
+        ]
+      },
+      "properties": {
+        "ID": 103610,
+        "Location": "Unit 1, Blenheim Park Road, Nottingham, NG6 8YP",
+        "Updated": "2025-04-09T12:41:10.902Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2399544,
+          52.5272562
+        ]
+      },
+      "properties": {
+        "ID": 103613,
+        "Location": "PE73EN INTER COUNTY",
+        "Updated": "2025-04-09T12:41:11.037Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0052259,
+          50.8755179
+        ]
+      },
+      "properties": {
+        "ID": 103639,
+        "Location": "DPD PORTSMOUTH",
+        "Updated": "2025-04-09T12:41:11.100Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0616791,
+          53.9815044
+        ]
+      },
+      "properties": {
+        "ID": 103641,
+        "Location": "36 - YO319DS",
+        "Updated": "2025-04-09T12:41:11.186Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.217758,
+          51.745734
+        ]
+      },
+      "properties": {
+        "ID": 103643,
+        "Location": "1 BELLE VIEW CLOSE STROUD 35276949733",
+        "Updated": "2025-04-09T12:41:11.327Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6229555,
+          53.7496005
+        ]
+      },
+      "properties": {
+        "ID": 103645,
+        "Location": "Express House, Nepshaw Lane, Gildersome, LS27 7JQ",
+        "Updated": "2025-04-09T12:41:11.411Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4710112,
+          51.5030369
+        ]
+      },
+      "properties": {
+        "ID": 103653,
+        "Location": "Oakwood Drive\nEmerson Green\nBristol, BS16 7LR",
+        "Updated": "2025-04-09T12:41:11.506Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1298578,
+          51.3848534
+        ]
+      },
+      "properties": {
+        "ID": 103654,
+        "Location": "Unit 1 Beddington Farm Road, \nOff Purley Way, Croydon, \nSurrey, CR0 4XB",
+        "Updated": "2025-04-09T12:41:11.612Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1033071,
+          52.5713324
+        ]
+      },
+      "properties": {
+        "ID": 103656,
+        "Location": "WCC, WV2 2LQ ",
+        "Updated": "2025-04-09T12:41:11.728Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3013117,
+          52.6586643
+        ]
+      },
+      "properties": {
+        "ID": 103660,
+        "Location": "M54 SLIP RD JUNCTION 4",
+        "Updated": "2025-04-09T12:41:11.855Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93939050000002,
+          41.6161828
+        ]
+      },
+      "properties": {
+        "ID": 103661,
+        "Location": "PREIMER TRUCKS",
+        "Updated": "2025-04-09T12:41:11.938Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1430584,
+          51.52855599999999
+        ]
+      },
+      "properties": {
+        "ID": 103665,
+        "Location": "Unit 2, Orion Park, Messina Way, Dagenham, RM9 6FF",
+        "Updated": "2025-04-09T12:41:12.113Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0483316,
+          52.51962409999999
+        ]
+      },
+      "properties": {
+        "ID": 103667,
+        "Location": "DPD DUDLEY PORT ",
+        "Updated": "2025-04-09T12:41:12.186Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.280626,
+          52.664082
+        ]
+      },
+      "properties": {
+        "ID": 103668,
+        "Location": "Unit 2, Twickenham Road, Norwich, NR6 6NG",
+        "Updated": "2025-04-09T12:41:12.271Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2225581,
+          51.4327675
+        ]
+      },
+      "properties": {
+        "ID": 103669,
+        "Location": "Unit 21, Fawkes Avenue,\nQuestor Industrial Estate, \nDartford, DA1 1JQ",
+        "Updated": "2025-04-09T12:41:12.287Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986374,
+          51.1554308
+        ]
+      },
+      "properties": {
+        "ID": 103670,
+        "Location": "Unit C, Woodlands Business Park, Bristol Rd, Bridgwater, \nSomerset, TA6 4FJ",
+        "Updated": "2025-04-09T12:41:12.303Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5953415,
+          52.5814993
+        ]
+      },
+      "properties": {
+        "ID": 103672,
+        "Location": "OLD SCHOOL CT GRENDON ATHERSTONE CV9 2EF",
+        "Updated": "2025-04-09T12:41:12.431Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3270454,
+          51.704319
+        ]
+      },
+      "properties": {
+        "ID": 103674,
+        "Location": "5 Victor Way, Radlett Road \nColney Street, St Albans\nHerts, AL2 2FL",
+        "Updated": "2025-04-09T12:41:12.528Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1680043,
+          50.967966
+        ]
+      },
+      "properties": {
+        "ID": 103676,
+        "Location": "Gothard Green Way\nGoddard?s Green\nHassocks, BN6 9ZJ",
+        "Updated": "2025-04-09T12:41:12.675Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7722365,
+          52.0225467
+        ]
+      },
+      "properties": {
+        "ID": 103678,
+        "Location": "Roebuck Way, Milton Keynes, MK5 8HL",
+        "Updated": "2025-04-09T12:41:12.812Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08038569999999999,
+          51.4924645
+        ]
+      },
+      "properties": {
+        "ID": 103679,
+        "Location": "Unit 5, Mandela Way\nBricklayers Arms\nSouthwark, SE1 5SE",
+        "Updated": "2025-04-09T12:41:12.830Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0549138,
+          55.92653379999999
+        ]
+      },
+      "properties": {
+        "ID": 103681,
+        "Location": "Treeby House, 3 Old Quarry Road, Cumbernauld, G68 9NB",
+        "Updated": "2025-04-09T12:41:12.927Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3817286,
+          51.5566365
+        ]
+      },
+      "properties": {
+        "ID": 103682,
+        "Location": "RAPID STONEFIELD WAY HA4 0BH",
+        "Updated": "2025-04-09T12:41:13.032Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2739632,
+          51.5349774
+        ]
+      },
+      "properties": {
+        "ID": 103683,
+        "Location": "28 Commercial Way\nPark Royal,\nLondon, NW10 7XF",
+        "Updated": "2025-04-09T12:41:13.123Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4493436,
+          53.45040119999999
+        ]
+      },
+      "properties": {
+        "ID": 103684,
+        "Location": "DPD SHEFFIELD, S351QP",
+        "Updated": "2025-04-09T12:41:13.187Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.50593,
+          51.8973069
+        ]
+      },
+      "properties": {
+        "ID": 103685,
+        "Location": "Unit 4, Humphrys Road, \nWoodside Industrial Estate, Dunstable, Bedfordshire LU5 4TP",
+        "Updated": "2025-04-09T12:41:13.290Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5495813,
+          52.3499898
+        ]
+      },
+      "properties": {
+        "ID": 103690,
+        "Location": "Warth Park Way, \nRaunds, \nNN9 6NY",
+        "Updated": "2025-04-09T12:41:13.374Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.973735,
+          51.70664799999999
+        ]
+      },
+      "properties": {
+        "ID": 103691,
+        "Location": "Unit 17-19, Fford Parc Felindre, Felindre, Swansea, SA57DU",
+        "Updated": "2025-04-09T12:41:13.394Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3270454,
+          51.704319
+        ]
+      },
+      "properties": {
+        "ID": 103693,
+        "Location": "5 Victor Way, Radlett Road \nColney Street, St Albans\nHerts, AL2 2FL",
+        "Updated": "2025-04-09T12:41:13.446Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1660037,
+          55.8333637
+        ]
+      },
+      "properties": {
+        "ID": 103694,
+        "Location": "104 Fullarton Drive\nCambuslang Investment Park, Cambuslang, G32 8FA",
+        "Updated": "2025-04-09T12:41:13.545Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4485643,
+          52.5148191
+        ]
+      },
+      "properties": {
+        "ID": 103695,
+        "Location": "CV116RP SLINGSBY CLOSE",
+        "Updated": "2025-04-09T12:41:13.675Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1660037,
+          55.8333637
+        ]
+      },
+      "properties": {
+        "ID": 103696,
+        "Location": "104 Fullarton Drive\nCambuslang Investment Park, Cambuslang, G32 8FA",
+        "Updated": "2025-04-09T12:41:13.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1660037,
+          55.8333637
+        ]
+      },
+      "properties": {
+        "ID": 103697,
+        "Location": "104 Fullarton Drive\nCambuslang Investment Park, Cambuslang, G32 8FA",
+        "Updated": "2025-04-09T12:41:13.711Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1660037,
+          55.8333637
+        ]
+      },
+      "properties": {
+        "ID": 103698,
+        "Location": "104 Fullarton Drive\nCambuslang Investment Park, Cambuslang, G32 8FA",
+        "Updated": "2025-04-09T12:41:13.731Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.270434,
+          51.8118743
+        ]
+      },
+      "properties": {
+        "ID": 103699,
+        "Location": "Jessops Court, Waterwells \nBusiness Park, Quedgeley, \nGloucester GL2 2AP",
+        "Updated": "2025-04-09T12:41:13.824Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1308968,
+          51.3611951
+        ]
+      },
+      "properties": {
+        "ID": 103700,
+        "Location": "OFFICE EVOLUTION, WILTSHIRE, SN126TJ",
+        "Updated": "2025-04-09T12:41:13.901Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0308022,
+          52.5077972
+        ]
+      },
+      "properties": {
+        "ID": 103687,
+        "Location": "B692GF",
+        "Updated": "2025-04-09T12:41:13.989Z"
+      }
+    }
+  ]
+}
